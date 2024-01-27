@@ -1,6 +1,6 @@
 # Presentasi_C-16
 
-## C-16 terhubung dengan teman secara online
+## terhubung dengan teman secara online
 
 - Hallo semuanya kali ini saya ingin
   memperkenalkan sebuah aplikasi
@@ -73,9 +73,13 @@
    untuk tetap dekat dengan
    teman-teman Anda di mana saja.
 
+## Penutup :
+
+Dengan demikian, itulah gambaran singkat tentang aplikasi sosial media kami, `C-16`. Kami percaya bahwa fitur-fitur inovatif kami akan membawa pengalaman bermedia sosial Anda ke tingkat yang baru.
+
 ## Kesimpulan : 
 
-Aplikasi sosial media ini tidak hanya tentang berbagi momen, tetapi juga tentang membangun komunitas yang solid, menjaga keamanan informasi, dan memberikan pengalaman yang disesuaikan dengan kebutuhan individu.
+Aplikasi sosial media ini hadir dengan fitur-fitur unggulan, termasuk komunikasi langsung melalui pesan teks, panggilan suara, dan panggilan video. Kami tidak hanya menciptakan ruang bagi momen-momen berharga, tetapi juga memprioritaskan keamanan informasi, kenyamanan pengguna, dan  tentang membangun komunitas yang solid, dan memberikan pengalaman yang disesuaikan dengan kebutuhan individu.
 
 - Terima kasih telah
   meluangkan waktu untuk mendengarkan
