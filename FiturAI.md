@@ -4,7 +4,7 @@ Hello everyone, good morning, let me introduce myself, `My Name Is Elviana`.
 
 This time I want to present about adding new features to the C-16 application, namely the artificial intelligence system.
 
-Thank you for joining today.
+Thank you for joining today, 
 I'm very excited to be able to talk today about the latest developments in our artificial intelligence systems, within the C-16 application.
 
 - With the rapid development of AI technology, we continue to strive to improve the quality of our services.
