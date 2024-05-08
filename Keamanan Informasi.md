@@ -3,7 +3,7 @@
 Halo semuanya, selamat pagi. <br/> 
 Izinkan saya untuk memperkenalkan diri, nama saya `Elviana`. <br/>
 Saya ingin mengucapkan terima kasih kepada teman-teman yang telah menghadiri pertemuan kali ini. <br/>
-Dan saya sangat senang dapat berbicara dengan anda hari ini. <br/>
+Dan kita sangat senang dapat berbicara dengan anda hari ini. <br/>
 Pada pertemuan kali ini saya akan membahas tentang keamanan informasi, pada aplikasi `C-sixteen` kita. <br/>
 Di era digital yang semakin berkembang ini, keamanan informasi merupakan hal yang sangat vital bagi perusahaan dan pengguna. <br/>
 Kali ini saya akan memberikan solusi untuk keamanan informasi, pada aplikasi `C-sixteen`. 
@@ -22,5 +22,5 @@ Dan jiika sebuah aplikasi tidak dapat melindungi informasi pengguna dengan baik,
 - Aplikasi `C-sixteen` telah dirancang untuk meningkatkan keamanan informasi. <br/>
 Fitur unggulannya antara lain enkripsi end-to-end yang kuat untuk melindungi data pengguna, otentikasi multi-faktor untuk mengamankan akses, dan pemantauan keamanan real-time untuk deteksi ancaman. <br/>
 Selain itu, `C-sixteen` juga dilengkapi dengan log audit untuk melacak aktivitas pengguna dan pembatasan akses untuk mengontrol akses pengguna secara lebih efektif. <br/>
-Anda akan merasakan manfaat langsung dalam hal keamanan data yang ditingkatkan.
+Anda akan merasakan manfaat langsung dalam hal keamanan data yang ditingkatkan. <br/>
 Hal ini akan membantu mengurangi risiko kebocoran data dan serangan siber yang dapat merugikan pengguna.
